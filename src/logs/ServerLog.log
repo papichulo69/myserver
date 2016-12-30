@@ -1,0 +1,12 @@
+=== Started 2016-12-15T20-39-01-792 ===
+[INFO ][20:39:01] 0 IP ban records loaded.
+[WARN ][20:39:01] User account "Local Administrator" disabled
+[WARN ][20:39:01] User account "Local Moderator" disabled
+[WARN ][20:39:01] User account "Local User" disabled
+[INFO ][20:39:01] 0 user records loaded.
+[INFO ][20:39:01] 0 bad words loaded
+[INFO ][20:39:01] [1m[32mJhairTM-YT 1.4.4[37m - An open source multi-protocol ogar server[0m
+[INFO ][20:39:01] WebSocket: ws
+[INFO ][20:39:01] Started stats server on port 1051
+[INFO ][20:39:01] Listening on port 3000
+[INFO ][20:39:01] Current game mode is Free For All
